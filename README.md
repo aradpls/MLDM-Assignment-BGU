@@ -6,6 +6,8 @@ Name: Adi Yogev Golbri ID: 307849869
 
 Name: Arad Peleg ID: 206068801
 
-Hey this is our MLDM Assignment were we will upload CSV data (M1, M2, sigma1, sigma2), part one the theoretical questionand  and a ipynb file (google collab notebook)
+Hey this is our MLDM Assignment: we uploaded the CSV data (M1, M2, sigma1, sigma2), theoretical question
+
+and a ipynb file (google collab notebook) for part two.
 
 
