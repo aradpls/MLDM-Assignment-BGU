@@ -1,6 +1,6 @@
 <h1 align="center">MLDM Assignment </h1>
 
-Name: Inbal Cribian
+Name: Inbal Karibian
 
 Name: Adi Yogev Golbri
 
