@@ -2,7 +2,7 @@
 
 Name: Inbal Karibian
 
-Name: Adi Yogev Golbri
+Name: Adi Yogev Golbari
 
 Name: Arad Peleg 
 
